@@ -1,0 +1,56 @@
+@page 
+ { 
+  margin:30px;
+  font-family:Helvetica;
+ }
+ body
+ {
+ background-color:white;
+ border:1px solid #D9D9D9;
+ padding:15px;
+ font-size:12px; 
+ }
+table
+{
+ margin:auto;
+}
+table td
+{
+	border:1pt solid #D9D9D9;
+	padding:5px;
+}
+thead
+{
+border:1pt solid #D9D9D9;	
+}
+table thead{
+	padding:5px;
+}
+table tr{
+	color:#808080;
+}
+@font-face {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: normal;
+}
+thead th{
+	padding:10px;
+	
+}
+svg
+{
+	
+}
+table
+{
+	table-layout:fixed;
+	
+}
+table td{
+      word-wrap:break-word;
+}
+footer
+{
+	color:#EE3C18;margin-top:10px;position:absolute;bottom:0px;left:10px;
+}
